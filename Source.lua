@@ -577,7 +577,7 @@ Welcome_Label.TextYAlignment = Enum.TextYAlignment.Top
 
 Announce_Label.Name = "Announce_Label"
 Announce_Label.Parent = Home_Section
-Announce_Label.BackgroundColor3 = Color3.fromRGB(228, 25, 228)
+Announce_Label.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
 Announce_Label.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Announce_Label.BorderSizePixel = 0
 Announce_Label.Position = UDim2.new(0, 25, 0, 150)
