@@ -340,7 +340,7 @@ wait(0.2)
 Background.Name = "Background"
 Background.Parent = SysBroker
 Background.AnchorPoint = Vector2.new(0.5, 0.5)
-Background.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+Background.BackgroundColor3 = Color3.fromRGB(228, 25, 228)
 Background.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Background.Position = UDim2.new(0.5, 0, 0.5, 0)
 Background.Size = UDim2.new(0, 500, 0, 350)
@@ -577,7 +577,7 @@ Welcome_Label.TextYAlignment = Enum.TextYAlignment.Top
 
 Announce_Label.Name = "Announce_Label"
 Announce_Label.Parent = Home_Section
-Announce_Label.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+Announce_Label.BackgroundColor3 = Color3.fromRGB(228, 25, 228)
 Announce_Label.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Announce_Label.BorderSizePixel = 0
 Announce_Label.Position = UDim2.new(0, 25, 0, 150)
@@ -781,7 +781,7 @@ Target_Section.ScrollBarThickness = 5
 
 TargetImage.Name = "TargetImage"
 TargetImage.Parent = Target_Section
-TargetImage.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+TargetImage.BackgroundColor3 = Color3.fromRGB(228, 25, 228)
 TargetImage.BorderColor3 = Color3.fromRGB(56, 56, 56)
 TargetImage.Position = UDim2.new(0, 25, 0, 25)
 TargetImage.Size = UDim2.new(0, 100, 0, 100)
@@ -1676,7 +1676,7 @@ CopyInvite_Button.TextWrapped = true
 
 ChatBox_Input.Name = "ChatBox_Input"
 ChatBox_Input.Parent = Misc_Section
-ChatBox_Input.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+ChatBox_Input.BackgroundColor3 = Color3.fromRGB(228, 25, 228)
 ChatBox_Input.BorderColor3 = Color3.fromRGB(56, 56, 56)
 ChatBox_Input.Position = UDim2.new(0, 25, 0, 360)
 ChatBox_Input.Size = UDim2.new(0, 335, 0, 50)
@@ -1775,7 +1775,7 @@ Fly_Pad.ImageRectOffset = Vector2.new(713, 315)
 Fly_Pad.ImageRectSize = Vector2.new(75, 75)
 Fly_Pad.Visible = false
 
-UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(30, 30, 30)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(56, 56, 56))}
+UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(228, 25, 228)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(56, 56, 56))}
 UIGradient.Rotation = 45
 UIGradient.Parent = Fly_Pad
 
