@@ -552,8 +552,6 @@ Home_Section.ScrollBarThickness = 5
 
 Profile_Image.Name = "Profile_Image"
 Profile_Image.Parent = Home_Section
-Profile_Image.BackgroundColor3 = Color3.fromRGB(30,30,30)
-Profile_Image.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Profile_Image.BorderSizePixel = 0
 Profile_Image.Position = UDim2.new(0, 25, 0, 25)
 Profile_Image.Size = UDim2.new(0, 100, 0, 100)
