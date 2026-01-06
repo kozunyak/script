@@ -557,7 +557,7 @@ Profile_Image.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Profile_Image.BorderSizePixel = 0
 Profile_Image.Position = UDim2.new(0, 25, 0, 25)
 Profile_Image.Size = UDim2.new(0, 100, 0, 100)
-Profile_Image.Image = Players:GetUserThumbnailAsync(plr.UserId,Enum.ThumbnailType.HeadShot,Enum.ThumbnailSize.Size420x420)
+Profile_Image.Image = "rbxassetid://99265809945689"
 
 Welcome_Label.Name = "Welcome_Label"
 Welcome_Label.Parent = Home_Section
@@ -577,7 +577,7 @@ Welcome_Label.TextYAlignment = Enum.TextYAlignment.Top
 
 Announce_Label.Name = "Announce_Label"
 Announce_Label.Parent = Home_Section
-Announce_Label.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+Announce_Label.BackgroundColor3 = Color3.fromRGB(220, 21, 193)
 Announce_Label.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Announce_Label.BorderSizePixel = 0
 Announce_Label.Position = UDim2.new(0, 25, 0, 150)
@@ -1593,7 +1593,7 @@ FaceFk_Button.BorderSizePixel = 0
 FaceFk_Button.Position = UDim2.new(0, 25, 0, 25)
 FaceFk_Button.Size = UDim2.new(0, 150, 0, 30)
 FaceFk_Button.Font = Enum.Font.Oswald
-FaceFk_Button.Text = "Face F**k (Z)"
+FaceFk_Button.Text = "raketa (Z)"
 FaceFk_Button.TextColor3 = Color3.fromRGB(0, 0, 0)
 FaceFk_Button.TextScaled = true
 FaceFk_Button.TextSize = 14.000
